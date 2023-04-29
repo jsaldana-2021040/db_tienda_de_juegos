@@ -1,0 +1,2 @@
+# tienda_de_juegos 
+Este código es una secuencia de comandos SQL que crea una base de datos llamada tienda_de_juegos y las tablas necesarias para registrar información sobre roles de usuario, géneros de juegos, suscripciones, empresas desarrolladoras, distribuidoras, personas, empleados, usuarios, juegos, clientes y listas de deseos.
